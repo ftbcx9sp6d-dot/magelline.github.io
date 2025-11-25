@@ -12,11 +12,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Interesting Project**
-- 🌱 I’m currently learning **New Technology**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Development & Life**
-- 📫 How to reach me: **your_email@example.com**
+- 🔭 **숭실대학교 기계공학부**
+- 🌱 **22학번**
+- 👯 **김유현**
 
 ---
 
