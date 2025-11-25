@@ -4,9 +4,7 @@
   </a>
 </h1>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[본인의_깃허브_아이디]&style=flat-square&color=blue" alt="hits"/>
-</div>
+
 
 ---
 
