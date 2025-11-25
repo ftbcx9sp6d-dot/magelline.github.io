@@ -1,1 +1,1 @@
-# P5.js 비주얼 포트폴리오 5차 과제
+<h1 align="center">💻 Project Name</h1> <p align="center"><i>Minimal. Clean. Developer Friendly.</i></p> <p align="center"> <img src="https://img.shields.io/badge/version-1.0.0-6E6E6E?style=for-the-badge" /> <img src="https://img.shields.io/badge/build-passing-4CAF50?style=for-the-badge" /> <img src="https://img.shields.io/badge/license-MIT-9C27B0?style=for-the-badge" /> </p> --- ## ⚡ Overview > "설명이 길면 코드가 잘못되었을지도 모른다." 이 프로젝트는 **핵심 기능 중심**, **단순함**, **효율성**을 목표로 합니다. 여기서는 기본적인 구조를 소개하고 예제 코드를 통해 빠르게 이해할 수 있도록 합니다. --- ## 📁 Folder Structure
